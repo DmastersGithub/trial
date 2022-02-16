@@ -1,1 +1,10 @@
-Welcome world>> This is the new Thing!!
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
